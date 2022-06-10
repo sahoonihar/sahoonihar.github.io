@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radhakrishnan V | Home</title>
+    <link>https://sahoonihar.github.io/author/radhakrishnan-v/</link>
+      <atom:link href="https://sahoonihar.github.io/author/radhakrishnan-v/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radhakrishnan V</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
+      <title>Radhakrishnan V</title>
+      <link>https://sahoonihar.github.io/author/radhakrishnan-v/</link>
+    </image>
+    
+    <item>
+      <title>Few-Shot Domain Adaptation for Low Light RAW Image Enhancement</title>
+      <link>https://sahoonihar.github.io/publication/bmvc21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/publication/bmvc21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
