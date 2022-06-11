@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nihar Ranjan Sahoo | Home</title>
+    <title>Nihar Ranjan Sahoo | Nihar R. Sahoo</title>
     <link>https://sahoonihar.github.io/author/nihar-ranjan-sahoo/</link>
       <atom:link href="https://sahoonihar.github.io/author/nihar-ranjan-sahoo/index.xml" rel="self" type="application/rss+xml" />
     <description>Nihar Ranjan Sahoo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sahoonihar.github.io/author/nihar-ranjan-sahoo/avatar_hu4694058c16b6d5712d43347317566b61_83029_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Nihar Ranjan Sahoo</title>
@@ -17,18 +17,7 @@
       <link>https://sahoonihar.github.io/publication/lrec22/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://sahoonihar.github.io/publication/lrec22/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>

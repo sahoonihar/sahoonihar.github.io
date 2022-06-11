@@ -1,9 +1,9 @@
 {
-  "name": "Home",
-  "short_name": "Home",
+  "name": "Nihar R. Sahoo",
+  "short_name": "Nihar R. Sahoo",
   "lang": "en-us",
-  "theme_color": "#284f7a",
-  "background_color": "#284f7a",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
     "src": "/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
