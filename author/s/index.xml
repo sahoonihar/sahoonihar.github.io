@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s | Nihar R. Sahoo</title>
+    <link>https://sahoonihar.github.io/author/s/</link>
+      <atom:link href="https://sahoonihar.github.io/author/s/index.xml" rel="self" type="application/rss+xml" />
+    <description>s</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Mon, 01 Jun 2020 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
+      <title>s</title>
+      <link>https://sahoonihar.github.io/author/s/</link>
+    </image>
+    
+    <item>
+      <title>Social Bias Detection and Mitigation in Text</title>
+      <link>https://sahoonihar.github.io/talk/social-bias-detection-and-mitigation-in-text/</link>
+      <pubDate>Mon, 01 Jun 2020 13:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/social-bias-detection-and-mitigation-in-text/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
