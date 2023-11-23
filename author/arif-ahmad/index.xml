@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ARIF AHMAD | Nihar R. Sahoo</title>
+    <link>https://sahoonihar.github.io/author/arif-ahmad/</link>
+      <atom:link href="https://sahoonihar.github.io/author/arif-ahmad/index.xml" rel="self" type="application/rss+xml" />
+    <description>ARIF AHMAD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Thu, 14 Dec 2023 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
+      <title>ARIF AHMAD</title>
+      <link>https://sahoonihar.github.io/author/arif-ahmad/</link>
+    </image>
+    
+    <item>
+      <title>Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing Their Potential</title>
+      <link>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</link>
+      <pubDate>Thu, 14 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

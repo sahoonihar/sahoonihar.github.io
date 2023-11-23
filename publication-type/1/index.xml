@@ -5,12 +5,20 @@
     <link>https://sahoonihar.github.io/publication-type/1/</link>
       <atom:link href="https://sahoonihar.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Fri, 14 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://sahoonihar.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>With Prejudice to None: A Few-Shot, Multilingual Transfer Learning Approach to Detect Social Bias in Low Resource Languages</title>
+      <link>https://sahoonihar.github.io/publication/acl23/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/publication/acl23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Detecting Unintended Social Bias in Toxic Language Datasets</title>

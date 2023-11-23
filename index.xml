@@ -5,7 +5,7 @@
     <link>https://sahoonihar.github.io/</link>
       <atom:link href="https://sahoonihar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nihar R. Sahoo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Sun, 17 Dec 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
       <title>Nihar R. Sahoo</title>
@@ -105,6 +105,30 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vision-Language Models: Evolution, Applications, and Challenges in Bridging the Gap Between Visual and Textual Data</title>
+      <link>https://sahoonihar.github.io/talk/vision-language-models-evolution-applications-and-challenges-in-bridging-the-gap-between-visual-and-textual-data/</link>
+      <pubDate>Sun, 17 Dec 2023 14:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/vision-language-models-evolution-applications-and-challenges-in-bridging-the-gap-between-visual-and-textual-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing Their Potential</title>
+      <link>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</link>
+      <pubDate>Thu, 14 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>With Prejudice to None: A Few-Shot, Multilingual Transfer Learning Approach to Detect Social Bias in Low Resource Languages</title>
+      <link>https://sahoonihar.github.io/publication/acl23/</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/publication/acl23/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -274,7 +298,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-352617498&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-174256389&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -284,7 +308,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-352617498&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-174256389&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

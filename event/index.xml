@@ -5,12 +5,28 @@
     <link>https://sahoonihar.github.io/event/</link>
       <atom:link href="https://sahoonihar.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Sun, 18 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022, Nihar Ranjan Sahoo</copyright><lastBuildDate>Sun, 17 Dec 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sahoonihar.github.io/media/icon_hu1afbf18dd22856f2f9319d89bb9c74c7_156697_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sahoonihar.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Vision-Language Models: Evolution, Applications, and Challenges in Bridging the Gap Between Visual and Textual Data</title>
+      <link>https://sahoonihar.github.io/talk/vision-language-models-evolution-applications-and-challenges-in-bridging-the-gap-between-visual-and-textual-data/</link>
+      <pubDate>Sun, 17 Dec 2023 14:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/vision-language-models-evolution-applications-and-challenges-in-bridging-the-gap-between-visual-and-textual-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harnessing LLMs with Prompts: Applications, Challenges, and Maximizing Their Potential</title>
+      <link>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</link>
+      <pubDate>Thu, 14 Dec 2023 10:00:00 +0000</pubDate>
+      <guid>https://sahoonihar.github.io/talk/harnessing-llms-with-prompts-applications-challenges-and-maximizing-their-potential/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Social Bias Detection and Mitigation in Text</title>
