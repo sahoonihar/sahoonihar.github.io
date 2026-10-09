@@ -1,0 +1,5 @@
+# Keep the original resume local; the published copy is files/Nihar_Ranjan_Sahoo_CV.pdf
+Resume_Nihar*.pdf
+
+.DS_Store
+Thumbs.db
