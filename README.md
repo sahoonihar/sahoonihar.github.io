@@ -1,6 +1,6 @@
 # sahoonihar.github.io
 
-Personal homepage of Nihar Ranjan Sahoo. Plain HTML/CSS/JS — no build step, no Jekyll/Hugo.
+Personal homepage of Nihar Ranjan Sahoo. Plain HTML/CSS/JS, with no build step and no Jekyll/Hugo.
 
 ```
 index.html                    all page content (edit this)
